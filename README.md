@@ -141,8 +141,12 @@ accuracy                           0.72       100
 3. **Intervention Studies:** Use predictions to design targeted educational and social support programs and measure real-world adherence impact.
 
 ---
+## 8. Deployment: Gradio Frontend Interface
 
-## 8. Tools, Tech Stack, and Datasets
+To demonstrate real-world usability, we built a Gradio-powered web interface for clinicians and researchers. The interface is designed to be minimalist, professional, and intuitive, allowing users to input patient demographics, lifestyle, and health metrics, then receive a real-time prediction of adherence risk.
+
+
+## 9. Tools, Tech Stack, and Datasets
 
 - **Technology:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn  
