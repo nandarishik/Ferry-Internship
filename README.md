@@ -149,3 +149,12 @@ accuracy                           0.72       100
 - **Dataset:** Synthetic but realistic dataset of 500 anonymized anemia patients  
   [Dataset Link](https://raw.githubusercontent.com/nandarishik/Ferry-Internship/main/realistic_medication_adherence_data.csv)
 
+
+  <img width="943" height="511" alt="image" src="https://github.com/user-attachments/assets/c4fb1564-3f73-4a7a-abab-5b7805b9e881" />
+  <img width="941" height="443" alt="image" src="https://github.com/user-attachments/assets/9056bb72-7d90-419b-b5ae-f2ab9e8b6e26" />
+  <img width="934" height="536" alt="image" src="https://github.com/user-attachments/assets/fdc83df5-b4cf-45fd-80bd-5b10b64d97ab" />
+  <img width="956" height="448" alt="image" src="https://github.com/user-attachments/assets/8ef422a4-54a0-4517-8eb5-87f5fbabbd7c" />
+
+
+
+
