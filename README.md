@@ -130,7 +130,12 @@ accuracy                           0.72       100
 
 ---
 
-## 7. Conclusion
+## 7. Deployment: Gradio Frontend Interface
+
+To demonstrate real-world usability, we built a Gradio-powered web interface for clinicians and researchers. The interface is designed to be minimalist, professional, and intuitive, allowing users to input patient demographics, lifestyle, and health metrics, then receive a real-time prediction of adherence risk.
+
+---
+## 8. Conclusion
 
 - Developed a machine learning model predicting medication adherence with **72% accuracy**.  
 - Findings confirm that medication adherence is a profoundly human issue, shaped by understanding, trust, and socioeconomic context.
@@ -141,10 +146,6 @@ accuracy                           0.72       100
 3. **Intervention Studies:** Use predictions to design targeted educational and social support programs and measure real-world adherence impact.
 
 ---
-## 8. Deployment: Gradio Frontend Interface
-
-To demonstrate real-world usability, we built a Gradio-powered web interface for clinicians and researchers. The interface is designed to be minimalist, professional, and intuitive, allowing users to input patient demographics, lifestyle, and health metrics, then receive a real-time prediction of adherence risk.
-
 
 ## 9. Tools, Tech Stack, and Datasets
 
